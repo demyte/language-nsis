@@ -1,0 +1,18 @@
+{
+  "name": "language-nsis",
+  "version": "0.0.0",
+  "description": "Nullsoft NSIS language support in Atom",
+  "engines": {
+    "atom": "*",
+    "node": "*"
+  },
+  "homepage": "",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/demyte/language-nsis.git"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/demyte/language-nsis/issues"
+  }
+}
